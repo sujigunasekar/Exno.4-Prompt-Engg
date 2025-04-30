@@ -103,7 +103,128 @@ Prompt to ChatGPT and Bard:
 
 ### Bard:
 "Sure! Can you please share your order number so I can look up the current status?"
+1. Straightforward Prompting Technique
+Product Troubleshooting:
+Prompt: "My phone isn’t turning on. What should I do?"
 
+### ChatGPT:
+
+Accuracy: 5/5 — The troubleshooting steps are accurate and common for phone issues.
+
+Clarity: 5/5 — The response is clear and easy to follow.
+
+Relevance: 5/5 — It directly addresses the customer's issue.
+
+User-Friendliness: 5/5 — The tone is helpful and comforting.
+
+### Bard:
+
+Accuracy: 5/5 — The solution is correct, focusing on common troubleshooting methods.
+
+Clarity: 5/5 — Very clear and actionable steps.
+
+Relevance: 5/5 — The response directly addresses the issue raised by the customer.
+
+User-Friendliness: 4/5 — A bit more formal but still approachable.
+
+Evaluation: Both ChatGPT and Bard provided excellent responses. They each presented clear, actionable solutions. Bard’s response was slightly more formal, while ChatGPT’s was friendlier, but both were effective.
+
+Final Score (each): 19/20
+
+### Order Tracking:
+Prompt: "What’s the status of my order? The order number is 12345."
+
+### ChatGPT:
+
+Accuracy: 5/5 — It correctly explains the status and expected shipping date.
+
+Clarity: 5/5 — The message is concise and well-structured.
+
+Relevance: 5/5 — Directly answers the query.
+
+User-Friendliness: 5/5 — Clear and courteous tone.
+
+### Bard:
+
+Accuracy: 5/5 — It provides accurate and standard response about order tracking.
+
+Clarity: 5/5 — It is straightforward.
+
+Relevance: 5/5 — It directly addresses the question.
+
+User-Friendliness: 4/5 — Professional, but slightly less engaging compared to ChatGPT.
+
+Evaluation: Both responses were equally effective in providing order status. ChatGPT’s tone was slightly more engaging, while Bard's was more formal but still effective.
+
+Final Score (each): 19/20
+
+General Inquiry:
+Prompt: "Can you tell me more about the warranty on your laptops?"
+
+### ChatGPT:
+
+Accuracy: 5/5 — Provides a correct and comprehensive response.
+
+Clarity: 5/5 — The message is very clear.
+
+Relevance: 5/5 — Answers the customer’s question directly.
+
+User-Friendliness: 5/5 — The tone is approachable and helpful.
+
+### Bard:
+
+Accuracy: 5/5 — Gives a clear and correct description of the warranty.
+
+Clarity: 5/5 — Clear and easy to understand.
+
+Relevance: 5/5 — It directly addresses the query.
+
+User-Friendliness: 4/5 — Slightly formal tone but still polite and informative.
+
+Evaluation: Both responses were on point with clear and accurate information. ChatGPT’s response was a bit more casual and engaging, whereas Bard's response was slightly more formal.
+
+Final Score (each): 19/20
+
+
+
+## 2. Preceding Question Prompting Technique
+Product Troubleshooting (Preceding Question):
+Prompt: "My laptop is making strange noises. What should I do?"
+
+### ChatGPT:
+
+Accuracy: 5/5 — The question helps guide the troubleshooting steps.
+
+Clarity: 5/5 — The follow-up questions are well-phrased and lead to clear steps.
+
+Relevance: 5/5 — Focuses on gathering more details to provide accurate assistance.
+
+User-Friendliness: 5/5 — The response is empathetic and conversational.
+
+### Bard:
+
+Accuracy: 5/5 — Provides helpful follow-up questions to guide the troubleshooting.
+
+Clarity: 5/5 — The questions are clear and easy to understand.
+
+Relevance: 5/5 — Directly addresses the issue by gathering more context.
+
+User-Friendliness: 4/5 — The tone is professional but slightly more formal than ChatGPT’s.
+
+Evaluation: Both responses use follow-up questions effectively to gather more context for troubleshooting. ChatGPT's response is slightly more empathetic and conversational, while Bard’s is more formal.
+
+Final Score (ChatGPT): 19/20
+Final Score (Bard): 18/20
+
+### Overall Evaluation Summary:
+Final Assessment:
+Winner: ChatGPT
+
+### Reason: 
+ChatGPT consistently provided responses that were not only accurate and clear but also user-friendly with a more empathetic and conversational tone. It excelled in making the interaction feel personal and approachable.
+
+### Bard:
+Bard performed very well, especially in terms of accuracy and clarity. However, its tone was more formal, which may not always be as engaging as ChatGPT's more casual and friendly approach
 
 
 # Result: 
