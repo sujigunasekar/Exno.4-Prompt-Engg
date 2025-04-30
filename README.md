@@ -40,9 +40,71 @@ Objective: Ensure that the chatbot reflects the user’s query back to them befo
 Prompt Pattern:
 Prompt: "When a customer asks for help, first reflect their question back to them. For example, if they ask 'How can I reset my password?' respond with 'You're asking how to reset your password, correct? Here’s how you can do it.'"
 Result: The various types of Prompts are executed successfully.
+## Use Case: Customer Support Chatbot
+### Scenario:
+A customer service chatbot designed to assist users with product troubleshooting, order tracking, and answering general inquiries. The chatbot must handle the following common scenarios effectively:
+
+Product Troubleshooting: Help customers resolve issues related to malfunctioning products.
+
+Order Tracking: Provide updates on the status of customer orders.
+
+General Inquiries: Answer general questions related to the company's products or services.
+
+The chatbot will use different prompting techniques to guide its responses in each case.
+
+### 1. Straightforward Prompting Technique
+Prompt: Product Troubleshooting
+Prompt to ChatGPT and Bard:
+"My phone isn’t turning on. What should I do?"
+
+### Response from ChatGPT:
+"First, try holding the power button for 10 seconds to force a restart. If that doesn't work, check if the battery is charged. If it's still not turning on, try plugging the phone into a charger for a few minutes to see if the battery is completely drained."
+
+### Response from Bard:
+"Try pressing and holding the power button for 10 seconds. If that doesn’t work, plug your phone into a charger for 10-15 minutes and then try turning it on again. If the issue persists, your device may need a professional diagnosis."
+
+Prompt: Order Tracking
+Prompt to ChatGPT and Bard:
+"What’s the status of my order? The order number is 12345."
+
+### Response from ChatGPT:
+"Your order #12345 is currently being processed and is expected to be shipped by [date]. You will receive a notification once it has been dispatched. Thank you for your patience!"
+
+### Response from Bard:
+"Order #12345 is on its way! It is expected to be shipped out by [date]. We will notify you once it’s on the move."
+
+Prompt: General Inquiry
+Prompt to ChatGPT and Bard:
+"Can you tell me more about the warranty on your laptops?"
+
+### Response from ChatGPT:
+"Our laptops come with a standard 1-year warranty, covering hardware defects and manufacturing issues. For further details, please refer to the warranty policy available on our website or contact our support team for assistance."
+
+### Response from Bard:
+"All laptops are covered by a 1-year warranty for any manufacturing defects or hardware malfunctions. You can find more details about our warranty coverage and the claims process on our website or contact our customer service for further help."
+
+
+## 2. Preceding Question Prompting Technique
+Prompt: Product Troubleshooting (Preceding Question)
+Prompt to ChatGPT and Bard:
+"My laptop is making strange noises. What should I do?"
+### ChatGPT:
+"I’ll help you with that. First, can you tell me if the noise happens when the laptop is idle or during specific tasks? Also, does the sound come from the fan, speakers, or elsewhere?"
+
+### Bard:
+"I can assist with that. Does the noise occur when you're using certain programs or when the laptop is idle? Is it a grinding or clicking sound, or more of a whirring noise from the fan?"
+
+## Prompt: Order Tracking (Preceding Question)
+Prompt to ChatGPT and Bard:
+"Where is my order?"
+### ChatGPT:
+"I’d be happy to check that. Can you provide me with your order number to get started?"
+
+### Bard:
+"Sure! Can you please share your order number so I can look up the current status?"
 
 
 
-
-# Result: Thus the Prompts were exected succcessfully .
+# Result: 
+Thus the Prompts were exected succcessfully .
 
